@@ -1,6 +1,18 @@
 #nav-color {
     color: white;
 }
-body{
-    background-color: rgb(202, 194, 194);
+#button{
+    color: red;
+    width: fit-content;
+    
+}
+#game{
+    color: red;
+    text-align:left;
+    padding-top: 15px;
+}
+#price{
+    color: red;
+    margin: 50px;
+    margin: auto;
 }
